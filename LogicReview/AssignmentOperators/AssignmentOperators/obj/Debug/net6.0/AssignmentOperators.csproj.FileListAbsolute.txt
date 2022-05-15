@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\bin\Debug\net6.0\AssignmentOperators.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\bin\Debug\net6.0\AssignmentOperators.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\bin\Debug\net6.0\AssignmentOperators.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\bin\Debug\net6.0\AssignmentOperators.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\bin\Debug\net6.0\AssignmentOperators.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\AssignmentOperators.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\AssignmentOperators.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\AssignmentOperators.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\AssignmentOperators.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\AssignmentOperators.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\refint\AssignmentOperators.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\AssignmentOperators.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\AssignmentOperators.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\AssignmentOperators\AssignmentOperators\obj\Debug\net6.0\ref\AssignmentOperators.dll

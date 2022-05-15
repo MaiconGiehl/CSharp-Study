@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\bin\Debug\net6.0\DataInput.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\bin\Debug\net6.0\DataInput.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\bin\Debug\net6.0\DataInput.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\bin\Debug\net6.0\DataInput.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\bin\Debug\net6.0\DataInput.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\DataInput.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\DataInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\DataInput.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\DataInput.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\DataInput.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\DataInput.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\refint\DataInput.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\DataInput.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\DataInput.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput\DataInput\obj\Debug\net6.0\ref\DataInput.dll

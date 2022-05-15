@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\refint\ArithmeticOperator.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ref\ArithmeticOperator.dll
