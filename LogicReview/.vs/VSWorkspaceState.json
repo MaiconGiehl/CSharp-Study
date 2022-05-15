@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DataOutput",
+    "\\DataOutput-Exercise",
+    "\\DataOutput\\DataOutput",
+    "\\DataTypes"
   ],
+  "SelectedNode": "\\DataOutput\\DataOutput\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
