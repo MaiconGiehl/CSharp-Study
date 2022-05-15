@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\DataOutputExercise.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\DataOutputExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\DataOutputExercise.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\DataOutputExercise.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\DataOutputExercise.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\bin\Debug\net6.0\DataOutputExercise.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\bin\Debug\net6.0\DataOutputExercise.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\bin\Debug\net6.0\DataOutputExercise.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\bin\Debug\net6.0\DataOutputExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\bin\Debug\net6.0\DataOutputExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\DataOutputExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\refint\DataOutputExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\DataOutputExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\DataOutputExercise.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataOutput\Exercise\DataOutputExercise\DataOutputExercise\obj\Debug\net6.0\ref\DataOutputExercise.dll
