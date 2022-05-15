@@ -1,13 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ArithmeticOperator",
     "\\AssignmentOperators",
     "\\Casting",
     "\\DataInput",
     "\\DataOutput",
     "\\DataOutput-Exercise",
     "\\DataTypes",
+    "\\Functions",
     "\\LogicalOperators",
     "\\Scope"
   ],
