@@ -5,8 +5,11 @@
     "\\AssignmentOperators",
     "\\Casting",
     "\\DataInput",
-    "\\DataOutput"
+    "\\DataOutput",
+    "\\DataOutput-Exercise",
+    "\\DataTypes",
+    "\\LogicalOperators",
+    "\\Scope"
   ],
-  "SelectedNode": "\\Casting\\Casting.sln",
   "PreviewInSolutionExplorer": false
 }

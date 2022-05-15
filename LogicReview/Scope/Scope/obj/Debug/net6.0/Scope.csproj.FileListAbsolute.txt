@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\Scope.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\Scope.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\Scope.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\Scope.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\bin\Debug\net6.0\Scope.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\bin\Debug\net6.0\Scope.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\bin\Debug\net6.0\Scope.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\bin\Debug\net6.0\Scope.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\bin\Debug\net6.0\Scope.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\Scope.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\refint\Scope.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\Scope.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\Scope.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\Scope\Scope\obj\Debug\net6.0\ref\Scope.dll
