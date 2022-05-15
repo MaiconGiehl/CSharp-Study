@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ArithmeticOperator",
+    "\\AssignmentOperators",
+    "\\Casting",
+    "\\DataInput",
+    "\\DataOutput"
   ],
+  "SelectedNode": "\\Casting\\Casting.sln",
   "PreviewInSolutionExplorer": false
 }

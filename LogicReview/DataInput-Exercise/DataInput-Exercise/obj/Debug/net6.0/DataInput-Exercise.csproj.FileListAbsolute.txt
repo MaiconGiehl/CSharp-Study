@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\bin\Debug\net6.0\DataInput-Exercise.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\bin\Debug\net6.0\DataInput-Exercise.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\bin\Debug\net6.0\DataInput-Exercise.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\bin\Debug\net6.0\DataInput-Exercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\bin\Debug\net6.0\DataInput-Exercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\DataInput-Exercise.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\DataInput-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\DataInput-Exercise.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\DataInput-Exercise.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\DataInput-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\DataInput-Exercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\refint\DataInput-Exercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\DataInput-Exercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\DataInput-Exercise.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\DataInput-Exercise\DataInput-Exercise\obj\Debug\net6.0\ref\DataInput-Exercise.dll

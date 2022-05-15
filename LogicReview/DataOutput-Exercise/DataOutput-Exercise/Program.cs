@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-namespace Course
+namespace DataOutputExercise
 {
     class Program
     {

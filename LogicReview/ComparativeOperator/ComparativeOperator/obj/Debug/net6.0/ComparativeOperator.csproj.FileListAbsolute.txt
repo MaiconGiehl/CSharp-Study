@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\bin\Debug\net6.0\ComparativeOperator.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\bin\Debug\net6.0\ComparativeOperator.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\bin\Debug\net6.0\ComparativeOperator.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\bin\Debug\net6.0\ComparativeOperator.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\bin\Debug\net6.0\ComparativeOperator.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\ComparativeOperator.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\ComparativeOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\ComparativeOperator.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\ComparativeOperator.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\ComparativeOperator.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\ComparativeOperator.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\refint\ComparativeOperator.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\ComparativeOperator.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\ComparativeOperator.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ComparativeOperator\ComparativeOperator\obj\Debug\net6.0\ref\ComparativeOperator.dll

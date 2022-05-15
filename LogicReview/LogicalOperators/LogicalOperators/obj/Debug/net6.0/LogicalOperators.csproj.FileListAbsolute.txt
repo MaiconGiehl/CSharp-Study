@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\bin\Debug\net6.0\LogicalOperators.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\refint\LogicalOperators.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\LogicalOperators.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\LogicalOperators\LogicalOperators\obj\Debug\net6.0\ref\LogicalOperators.dll

@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\bin\Debug\net6.0\ConditionalStructure.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\bin\Debug\net6.0\ConditionalStructure.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\bin\Debug\net6.0\ConditionalStructure.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\bin\Debug\net6.0\ConditionalStructure.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\bin\Debug\net6.0\ConditionalStructure.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\ConditionalStructure.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\ConditionalStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\ConditionalStructure.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\ConditionalStructure.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\ConditionalStructure.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\ConditionalStructure.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\refint\ConditionalStructure.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\ConditionalStructure.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\ConditionalStructure.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\LogicReview\ConditionalStructure\ConditionalStructure\obj\Debug\net6.0\ref\ConditionalStructure.dll
