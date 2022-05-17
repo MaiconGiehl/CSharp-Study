@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LogicReview",
+    "\\LogicReview\\ArithmeticOperator",
+    "\\LogicReview\\For",
+    "\\LogicReview\\Functions",
+    "\\LogicReview\\LogicalOperators",
+    "\\LogicReview\\Scope",
+    "\\LogicReview\\While",
+    "\\LogicReview\\While\\While",
+    "\\StartingWithObjects"
   ],
+  "SelectedNode": "\\LogicReview\\Casting\\Casting.sln",
   "PreviewInSolutionExplorer": false
 }

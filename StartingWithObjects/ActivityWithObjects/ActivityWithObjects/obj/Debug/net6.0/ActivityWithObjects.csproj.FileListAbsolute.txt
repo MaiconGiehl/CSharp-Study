@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\bin\Debug\net6.0\ActivityWithObjects.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\bin\Debug\net6.0\ActivityWithObjects.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\bin\Debug\net6.0\ActivityWithObjects.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\bin\Debug\net6.0\ActivityWithObjects.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\bin\Debug\net6.0\ActivityWithObjects.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\ActivityWithObjects.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\ActivityWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\ActivityWithObjects.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\ActivityWithObjects.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\ActivityWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\ActivityWithObjects.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\refint\ActivityWithObjects.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\ActivityWithObjects.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\ActivityWithObjects.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivityWithObjects\ActivityWithObjects\obj\Debug\net6.0\ref\ActivityWithObjects.dll

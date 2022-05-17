@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\bin\Debug\net6.0\ActivtyWithoutObjects.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\bin\Debug\net6.0\ActivtyWithoutObjects.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\bin\Debug\net6.0\ActivtyWithoutObjects.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\bin\Debug\net6.0\ActivtyWithoutObjects.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\bin\Debug\net6.0\ActivtyWithoutObjects.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\ActivtyWithoutObjects.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\ActivtyWithoutObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\ActivtyWithoutObjects.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\ActivtyWithoutObjects.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\ActivtyWithoutObjects.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\ActivtyWithoutObjects.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\refint\ActivtyWithoutObjects.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\ActivtyWithoutObjects.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\ActivtyWithoutObjects.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\ActivtyWithoutObjects\ActivtyWithoutObjects\obj\Debug\net6.0\ref\ActivtyWithoutObjects.dll
