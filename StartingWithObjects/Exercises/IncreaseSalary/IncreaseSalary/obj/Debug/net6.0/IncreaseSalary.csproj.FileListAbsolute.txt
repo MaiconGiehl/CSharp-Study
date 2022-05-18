@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\bin\Debug\net6.0\IncreaseSalary.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\bin\Debug\net6.0\IncreaseSalary.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\bin\Debug\net6.0\IncreaseSalary.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\bin\Debug\net6.0\IncreaseSalary.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\bin\Debug\net6.0\IncreaseSalary.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\IncreaseSalary.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\IncreaseSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\IncreaseSalary.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\IncreaseSalary.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\IncreaseSalary.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\IncreaseSalary.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\refint\IncreaseSalary.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\IncreaseSalary.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\IncreaseSalary.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\IncreaseSalary\IncreaseSalary\obj\Debug\net6.0\ref\IncreaseSalary.dll

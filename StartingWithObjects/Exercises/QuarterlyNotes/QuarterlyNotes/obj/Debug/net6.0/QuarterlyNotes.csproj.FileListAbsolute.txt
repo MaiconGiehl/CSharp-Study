@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\bin\Debug\net6.0\QuarterlyNotes.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\bin\Debug\net6.0\QuarterlyNotes.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\bin\Debug\net6.0\QuarterlyNotes.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\bin\Debug\net6.0\QuarterlyNotes.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\bin\Debug\net6.0\QuarterlyNotes.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\QuarterlyNotes.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\QuarterlyNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\QuarterlyNotes.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\QuarterlyNotes.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\QuarterlyNotes.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\QuarterlyNotes.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\refint\QuarterlyNotes.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\QuarterlyNotes.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\QuarterlyNotes.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\QuarterlyNotes\QuarterlyNotes\obj\Debug\net6.0\ref\QuarterlyNotes.dll

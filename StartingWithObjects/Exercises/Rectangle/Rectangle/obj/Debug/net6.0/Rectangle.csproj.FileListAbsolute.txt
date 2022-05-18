@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\bin\Debug\net6.0\Rectangle.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\refint\Rectangle.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\Rectangle.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Rectangle\Rectangle\obj\Debug\net6.0\ref\Rectangle.dll
