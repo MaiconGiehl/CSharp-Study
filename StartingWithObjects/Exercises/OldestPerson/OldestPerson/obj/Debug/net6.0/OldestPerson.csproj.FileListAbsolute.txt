@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\bin\Debug\net6.0\OldestPerson.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\bin\Debug\net6.0\OldestPerson.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\bin\Debug\net6.0\OldestPerson.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\bin\Debug\net6.0\OldestPerson.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\bin\Debug\net6.0\OldestPerson.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\OldestPerson.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\OldestPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\OldestPerson.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\OldestPerson.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\OldestPerson.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\OldestPerson.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\refint\OldestPerson.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\OldestPerson.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\OldestPerson.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\OldestPerson\OldestPerson\obj\Debug\net6.0\ref\OldestPerson.dll

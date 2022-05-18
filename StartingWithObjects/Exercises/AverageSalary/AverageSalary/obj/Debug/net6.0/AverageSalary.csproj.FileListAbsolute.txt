@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\bin\Debug\net6.0\AverageSalary.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\bin\Debug\net6.0\AverageSalary.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\bin\Debug\net6.0\AverageSalary.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\bin\Debug\net6.0\AverageSalary.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\bin\Debug\net6.0\AverageSalary.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\AverageSalary.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\AverageSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\AverageSalary.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\AverageSalary.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\AverageSalary.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\AverageSalary.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\refint\AverageSalary.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\AverageSalary.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\AverageSalary.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Exercises\AverageSalary\AverageSalary\obj\Debug\net6.0\ref\AverageSalary.dll
