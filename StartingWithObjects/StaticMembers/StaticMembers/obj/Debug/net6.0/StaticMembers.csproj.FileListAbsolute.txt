@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\bin\Debug\net6.0\StaticMembers.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\refint\StaticMembers.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\StaticMembers.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\StaticMembers\StaticMembers\obj\Debug\net6.0\ref\StaticMembers.dll

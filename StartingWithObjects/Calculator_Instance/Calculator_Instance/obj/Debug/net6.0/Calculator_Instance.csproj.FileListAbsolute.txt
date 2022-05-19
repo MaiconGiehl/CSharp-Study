@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\bin\Debug\net6.0\Calculator_Instance.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\bin\Debug\net6.0\Calculator_Instance.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\bin\Debug\net6.0\Calculator_Instance.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\bin\Debug\net6.0\Calculator_Instance.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\bin\Debug\net6.0\Calculator_Instance.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\Calculator_Instance.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\Calculator_Instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\Calculator_Instance.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\Calculator_Instance.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\Calculator_Instance.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\Calculator_Instance.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\refint\Calculator_Instance.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\Calculator_Instance.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\Calculator_Instance.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\StartingWithObjects\Calculator_Instance\Calculator_Instance\obj\Debug\net6.0\ref\Calculator_Instance.dll
