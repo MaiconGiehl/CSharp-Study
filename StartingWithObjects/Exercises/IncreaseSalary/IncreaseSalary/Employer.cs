@@ -13,13 +13,13 @@ namespace IncreaseSalary
 
         public void MoreSalary(double moreSalaryPercent)
         {
-            NetSalary += NetSalary * (moreSalaryPercent / 100);
+            NetSalary += GrossSalary * (moreSalaryPercent / 100);
 
         }
 
         public override string ToString()
         {
-            return $"Name = {Name}, Salary = {NetSalary}.";
+            return $"Name = {Name}, Salary = ${NetSalary.ToString("F2", CultureInfo.InvariantCulture)}.";
         }
     }
 }

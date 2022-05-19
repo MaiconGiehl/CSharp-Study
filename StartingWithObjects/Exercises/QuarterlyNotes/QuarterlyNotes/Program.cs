@@ -14,28 +14,26 @@ namespace QuarterlyNotes
             student.Name = Console.ReadLine();
 
             Console.Write("First Note: ");
-            student.Note1 = double.Parse(Console.ReadLine());
+            student.Note1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.Write("Second Note: ");
-            student.Note2 = double.Parse(Console.ReadLine());
+            student.Note2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.Write("Third Note: ");
-            student.Note3 = double.Parse(Console.ReadLine());
+            student.Note3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("");
 
-            Console.WriteLine("Final note: " + student.Total());
-            if (student.Total() >= 60)
+            Console.WriteLine("Final note: " + student.FinalNote().ToString("F2", CultureInfo.InvariantCulture));
+
+            if (student.Approved())
             {
-                student.Status = "Aproved";
-                Console.WriteLine(student.Status);
+                Console.WriteLine("Approved");  
             }
             else
             {
-                student.Status = "Reproved";
-                Console.WriteLine(student.Status);
-                Console.WriteLine("It was missing " + (60 - student.Total()) + " points");
-
+                Console.WriteLine("Disapproved");
+                Console.WriteLine("It was missing " + student.Remaining().ToString("F2", CultureInfo.InvariantCulture) + " points");
             }
         }
     }

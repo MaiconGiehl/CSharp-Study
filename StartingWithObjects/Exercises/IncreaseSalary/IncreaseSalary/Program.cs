@@ -8,6 +8,7 @@ namespace IncreaseSalary
         static void Main(string[] args)
         {
             Employer employer = new Employer();
+
             Console.WriteLine("Enter the employer's information");
             Console.Write("Name: ");
             employer.Name = Console.ReadLine();
