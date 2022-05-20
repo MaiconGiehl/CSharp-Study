@@ -1,0 +1,7 @@
+Suggested order for implementing members:
+
+Private attributes
+Self-implemented properties
+Builders
+Custom properties
+Other class methods
