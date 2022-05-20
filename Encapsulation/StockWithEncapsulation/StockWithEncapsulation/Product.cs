@@ -2,7 +2,7 @@
 using System.Globalization;
 
 
-namespace Constructors
+namespace Encapsulation
 {
     internal class Product
     {

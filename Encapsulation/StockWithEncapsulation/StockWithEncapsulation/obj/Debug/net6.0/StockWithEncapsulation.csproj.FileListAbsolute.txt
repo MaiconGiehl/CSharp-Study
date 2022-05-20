@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\bin\Debug\net6.0\StockWithEncapsulation.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\bin\Debug\net6.0\StockWithEncapsulation.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\bin\Debug\net6.0\StockWithEncapsulation.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\bin\Debug\net6.0\StockWithEncapsulation.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\bin\Debug\net6.0\StockWithEncapsulation.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\StockWithEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\StockWithEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\StockWithEncapsulation.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\StockWithEncapsulation.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\StockWithEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\StockWithEncapsulation.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\refint\StockWithEncapsulation.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\StockWithEncapsulation.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\StockWithEncapsulation.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Encapsulation\StockWithEncapsulation\StockWithEncapsulation\obj\Debug\net6.0\ref\StockWithEncapsulation.dll

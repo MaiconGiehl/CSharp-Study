@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Constructors
+namespace Encapsulation
 {
     class Program
     {
