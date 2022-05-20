@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\bin\Debug\net6.0\Properties.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\bin\Debug\net6.0\Properties.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\bin\Debug\net6.0\Properties.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\bin\Debug\net6.0\Properties.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\Properties.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\refint\Properties.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\Properties.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Properties\Properties\Properties\obj\Debug\net6.0\ref\Properties.dll
