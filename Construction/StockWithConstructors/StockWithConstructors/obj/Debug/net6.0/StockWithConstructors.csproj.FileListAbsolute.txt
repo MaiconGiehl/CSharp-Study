@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\bin\Debug\net6.0\StockWithConstructors.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\bin\Debug\net6.0\StockWithConstructors.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\bin\Debug\net6.0\StockWithConstructors.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\bin\Debug\net6.0\StockWithConstructors.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\bin\Debug\net6.0\StockWithConstructors.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\StockWithConstructors.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\StockWithConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\StockWithConstructors.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\StockWithConstructors.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\StockWithConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\StockWithConstructors.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\refint\StockWithConstructors.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\StockWithConstructors.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\StockWithConstructors.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Construction\StockWithConstructors\StockWithConstructors\obj\Debug\net6.0\ref\StockWithConstructors.dll
