@@ -6,48 +6,62 @@ namespace Encapsulation
 {
     internal class Product
     {
-        public string Name;
-        public double Price;
-        public int Amount;
+        private string _name;
+        private double _price;
+        private int _amount;
 
-        public Product()
+        public Product(string name, double price, int amount)
         {
-            Amount = 0;
+            _name = name;
+            _price = price;
+            _amount = amount;
         }
 
-        public Product(string name, double price) : this()
+        public string GetName ()
         {
-            Name = name;
-            Price = price;
+            return _name;
         }
 
-        public Product(string name, double price, int amount) : this(name, price)
+        public void SetName (string name)
         {
-            Amount = amount;
+            if (name != null && name.Length > 1)
+            {
+                _name = name;
+            }
+        }
+
+        public double GetPrice ()
+        {
+            return _price;
+        }
+
+        public int GetAmount ()
+        {
+            return _amount;
         }
 
         public double TotalInStock()
         {
-            return Price * Amount;
+            return _price * _amount;
         }
 
         public void AdcProducts(int moreProducts)
         {
-            Amount += moreProducts;
+            _amount += moreProducts;
         }
 
         public void RmvProducts(int lessProducts)
         {
-            Amount -= lessProducts;
+            _amount -= lessProducts;
         }
 
         public override string ToString()
         {
-            return Name
+            return _name
                 + ", $"
-                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + _price.ToString("F2", CultureInfo.InvariantCulture)
                 + ", "
-                + Amount
+                + _amount
                 + " units, Total: $"
                 + TotalInStock().ToString("F2", CultureInfo.InvariantCulture)
                 + ".";
