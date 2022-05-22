@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\bin\Debug\net6.0\Vector01.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\bin\Debug\net6.0\Vector01.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\bin\Debug\net6.0\Vector01.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\bin\Debug\net6.0\Vector01.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\bin\Debug\net6.0\Vector01.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\Vector01.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\Vector01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\Vector01.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\Vector01.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\Vector01.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\Vector01.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\refint\Vector01.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\Vector01.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\Vector01.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector01\Vector01\obj\Debug\net6.0\ref\Vector01.dll

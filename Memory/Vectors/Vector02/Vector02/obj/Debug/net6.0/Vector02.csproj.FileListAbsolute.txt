@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\Vector02.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\Vector02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\Vector02.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\Vector02.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\Vector02.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\bin\Debug\net6.0\Vector02.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\bin\Debug\net6.0\Vector02.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\bin\Debug\net6.0\Vector02.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\bin\Debug\net6.0\Vector02.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\bin\Debug\net6.0\Vector02.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\Vector02.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\refint\Vector02.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\Vector02.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\Vector02.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\Vector02\Vector02\obj\Debug\net6.0\ref\Vector02.dll

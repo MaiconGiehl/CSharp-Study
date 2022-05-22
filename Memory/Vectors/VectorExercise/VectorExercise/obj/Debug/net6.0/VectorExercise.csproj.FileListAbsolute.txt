@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\bin\Debug\net6.0\VectorExercise.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\bin\Debug\net6.0\VectorExercise.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\bin\Debug\net6.0\VectorExercise.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\bin\Debug\net6.0\VectorExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\bin\Debug\net6.0\VectorExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\VectorExercise.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\VectorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\VectorExercise.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\VectorExercise.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\VectorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\VectorExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\refint\VectorExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\VectorExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\VectorExercise.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Vectors\VectorExercise\VectorExercise\obj\Debug\net6.0\ref\VectorExercise.dll
