@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\bin\Debug\net6.0\Nullable.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\bin\Debug\net6.0\Nullable.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\bin\Debug\net6.0\Nullable.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\bin\Debug\net6.0\Nullable.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\bin\Debug\net6.0\Nullable.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\Nullable.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\Nullable.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\Nullable.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\refint\Nullable.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\Nullable.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\Nullable.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Nullable\Nullable\obj\Debug\net6.0\ref\Nullable.dll

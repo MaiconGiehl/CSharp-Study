@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\bin\Debug\net6.0\Struct.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\bin\Debug\net6.0\Struct.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\bin\Debug\net6.0\Struct.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\bin\Debug\net6.0\Struct.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\Struct.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\Struct.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\refint\Struct.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\Struct.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Struct\Struct\obj\Debug\net6.0\ref\Struct.dll
