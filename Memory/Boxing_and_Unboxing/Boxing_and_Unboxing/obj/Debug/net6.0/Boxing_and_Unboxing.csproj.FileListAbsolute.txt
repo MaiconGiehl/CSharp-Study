@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\bin\Debug\net6.0\Boxing_and_Unboxing.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\bin\Debug\net6.0\Boxing_and_Unboxing.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\bin\Debug\net6.0\Boxing_and_Unboxing.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\bin\Debug\net6.0\Boxing_and_Unboxing.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\bin\Debug\net6.0\Boxing_and_Unboxing.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\Boxing_and_Unboxing.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\Boxing_and_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\Boxing_and_Unboxing.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\Boxing_and_Unboxing.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\Boxing_and_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\Boxing_and_Unboxing.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\refint\Boxing_and_Unboxing.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\Boxing_and_Unboxing.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\Boxing_and_Unboxing.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Boxing_and_Unboxing\Boxing_and_Unboxing\obj\Debug\net6.0\ref\Boxing_and_Unboxing.dll

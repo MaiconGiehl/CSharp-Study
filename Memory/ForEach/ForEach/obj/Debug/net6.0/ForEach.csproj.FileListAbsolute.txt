@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\bin\Debug\net6.0\ForEach.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\bin\Debug\net6.0\ForEach.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\bin\Debug\net6.0\ForEach.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\bin\Debug\net6.0\ForEach.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\bin\Debug\net6.0\ForEach.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\ForEach.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\ForEach.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\refint\ForEach.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\ForEach.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\ForEach\ForEach\obj\Debug\net6.0\ref\ForEach.dll
