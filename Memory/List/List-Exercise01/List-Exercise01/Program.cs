@@ -55,6 +55,9 @@ namespace Exercise
                 double percentageToIncrease = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 employeeToIncrease.IncreaseSalary(percentageToIncrease);
                 Console.WriteLine("--------------------");
+            } else
+            {
+                Console.WriteLine("This id does not exist!");
             }
 
             Console.WriteLine("Updated list of employees: ");
