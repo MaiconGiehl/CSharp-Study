@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\bin\Debug\net6.0\Matriz-Exercise01.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\bin\Debug\net6.0\Matriz-Exercise01.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\bin\Debug\net6.0\Matriz-Exercise01.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\bin\Debug\net6.0\Matriz-Exercise01.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\bin\Debug\net6.0\Matriz-Exercise01.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\Matriz-Exercise01.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\Matriz-Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\Matriz-Exercise01.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\Matriz-Exercise01.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\Matriz-Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\Matriz-Exercise01.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\refint\Matriz-Exercise01.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\Matriz-Exercise01.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\Matriz-Exercise01.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\Matriz-Exercise01\Matriz-Exercise01\obj\Debug\net6.0\ref\Matriz-Exercise01.dll

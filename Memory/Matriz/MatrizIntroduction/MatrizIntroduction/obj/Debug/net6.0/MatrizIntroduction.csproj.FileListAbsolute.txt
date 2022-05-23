@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\bin\Debug\net6.0\MatrizIntroduction.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\bin\Debug\net6.0\MatrizIntroduction.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\bin\Debug\net6.0\MatrizIntroduction.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\bin\Debug\net6.0\MatrizIntroduction.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\bin\Debug\net6.0\MatrizIntroduction.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\MatrizIntroduction.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\MatrizIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\MatrizIntroduction.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\MatrizIntroduction.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\MatrizIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\MatrizIntroduction.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\refint\MatrizIntroduction.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\MatrizIntroduction.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\MatrizIntroduction.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Memory\Matriz\MatrizIntroduction\MatrizIntroduction\obj\Debug\net6.0\ref\MatrizIntroduction.dll

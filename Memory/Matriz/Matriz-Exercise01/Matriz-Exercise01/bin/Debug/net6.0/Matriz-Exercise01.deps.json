@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Matriz-Exercise01/1.0.0": {
+        "runtime": {
+          "Matriz-Exercise01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matriz-Exercise01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
