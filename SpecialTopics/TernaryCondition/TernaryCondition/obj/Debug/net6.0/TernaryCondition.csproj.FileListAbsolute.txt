@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\bin\Debug\net6.0\TernaryCondition.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\bin\Debug\net6.0\TernaryCondition.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\bin\Debug\net6.0\TernaryCondition.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\bin\Debug\net6.0\TernaryCondition.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\bin\Debug\net6.0\TernaryCondition.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\TernaryCondition.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\TernaryCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\TernaryCondition.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\TernaryCondition.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\TernaryCondition.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\TernaryCondition.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\refint\TernaryCondition.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\TernaryCondition.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\TernaryCondition.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TernaryCondition\TernaryCondition\obj\Debug\net6.0\ref\TernaryCondition.dll

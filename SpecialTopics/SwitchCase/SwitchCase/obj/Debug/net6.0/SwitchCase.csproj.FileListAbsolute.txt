@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\refint\SwitchCase.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\SwitchCase\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll
