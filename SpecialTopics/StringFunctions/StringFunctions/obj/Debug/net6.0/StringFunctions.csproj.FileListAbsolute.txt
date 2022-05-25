@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\bin\Debug\net6.0\StringFunctions.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\bin\Debug\net6.0\StringFunctions.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\bin\Debug\net6.0\StringFunctions.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\bin\Debug\net6.0\StringFunctions.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\bin\Debug\net6.0\StringFunctions.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\StringFunctions.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\StringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\StringFunctions.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\StringFunctions.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\StringFunctions.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\refint\StringFunctions.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\StringFunctions.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\StringFunctions.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\StringFunctions\StringFunctions\obj\Debug\net6.0\ref\StringFunctions.dll

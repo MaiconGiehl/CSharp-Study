@@ -8,9 +8,7 @@
     "\\LogicReview\\LogicalOperators",
     "\\LogicReview\\Scope",
     "\\LogicReview\\While",
-    "\\LogicReview\\While\\While",
-    "\\StartingWithObjects"
+    "\\LogicReview\\While\\While"
   ],
-  "SelectedNode": "\\Properties",
   "PreviewInSolutionExplorer": false
 }
