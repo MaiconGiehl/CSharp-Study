@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\bin\Debug\net6.0\DateTime_PropsAndOps.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\bin\Debug\net6.0\DateTime_PropsAndOps.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\bin\Debug\net6.0\DateTime_PropsAndOps.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\bin\Debug\net6.0\DateTime_PropsAndOps.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\bin\Debug\net6.0\DateTime_PropsAndOps.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\DateTime_PropsAndOps.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\DateTime_PropsAndOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\DateTime_PropsAndOps.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\DateTime_PropsAndOps.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\DateTime_PropsAndOps.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\DateTime_PropsAndOps.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\refint\DateTime_PropsAndOps.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\DateTime_PropsAndOps.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\DateTime_PropsAndOps.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\DateTime_PropsAndOps\DateTime_PropsAndOps\obj\Debug\net6.0\ref\DateTime_PropsAndOps.dll
