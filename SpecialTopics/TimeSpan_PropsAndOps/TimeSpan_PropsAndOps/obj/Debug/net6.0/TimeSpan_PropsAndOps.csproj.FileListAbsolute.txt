@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\bin\Debug\net6.0\TimeSpan_PropsAndOps.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\bin\Debug\net6.0\TimeSpan_PropsAndOps.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\bin\Debug\net6.0\TimeSpan_PropsAndOps.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\bin\Debug\net6.0\TimeSpan_PropsAndOps.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\bin\Debug\net6.0\TimeSpan_PropsAndOps.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\TimeSpan_PropsAndOps.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\TimeSpan_PropsAndOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\TimeSpan_PropsAndOps.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\TimeSpan_PropsAndOps.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\TimeSpan_PropsAndOps.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\TimeSpan_PropsAndOps.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\refint\TimeSpan_PropsAndOps.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\TimeSpan_PropsAndOps.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\TimeSpan_PropsAndOps.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeSpan_PropsAndOps\TimeSpan_PropsAndOps\obj\Debug\net6.0\ref\TimeSpan_PropsAndOps.dll
