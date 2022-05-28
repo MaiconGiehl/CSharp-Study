@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\bin\Debug\net6.0\DateTime_Kind.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\bin\Debug\net6.0\DateTime_Kind.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\bin\Debug\net6.0\DateTime_Kind.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\bin\Debug\net6.0\DateTime_Kind.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\bin\Debug\net6.0\DateTime_Kind.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\DateTime_Kind.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\DateTime_Kind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\DateTime_Kind.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\DateTime_Kind.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\DateTime_Kind.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\DateTime_Kind.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\refint\DateTime_Kind.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\DateTime_Kind.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\DateTime_Kind.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\SpecialTopics\TimeManipulation\DateTime_Kind\DateTime_Kind\obj\Debug\net6.0\ref\DateTime_Kind.dll
