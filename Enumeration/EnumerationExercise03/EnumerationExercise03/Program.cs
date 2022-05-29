@@ -28,7 +28,7 @@ namespace EnumerationExercise03
                 Console.WriteLine($"Insert product #{i} data");
                 Console.Write("Name: ");
                 string productName = Console.ReadLine();
-                Console.Write("Price");
+                Console.Write("Price: ");
                 double price = double.Parse(Console.ReadLine());
                 Console.Write("Quantity: ");
                 int quantity = int.Parse(Console.ReadLine());
@@ -36,6 +36,8 @@ namespace EnumerationExercise03
                 Product product = new Product(productName, price);
                 Console.WriteLine("-------------");
             }
+
+            Console.WriteLine(Order);
         }
     }
 }

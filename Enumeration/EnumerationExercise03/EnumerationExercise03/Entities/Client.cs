@@ -7,5 +7,7 @@ namespace EnumerationExercise03.Entities
         public string Name { get; set; }
         public string Email { get; set; }
         public DateTime BirthDate { get; set; }
+        public OrderItem OrderItem { get; set; }
+
     }
 }
