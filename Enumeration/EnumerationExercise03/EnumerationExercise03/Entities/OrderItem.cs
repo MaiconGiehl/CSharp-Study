@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Globalization;
 
 namespace EnumerationExercise03.Entities
 {
     internal class OrderItem
     {
+        public Product Product { get; set; }
         public int Quantity { get; set; }
         public double Price { get; set; }
 
@@ -14,6 +16,14 @@ namespace EnumerationExercise03.Entities
         public double SubTotal ()
         {
             return Price * Quantity;
+        }
+
+        public override string ToString()
+        {
+            return $"{Product.Name}, " +
+                $"${Price.ToString("F2", CultureInfo.InvariantCulture)}, " +
+                $"${Quantity}, " +
+                $"Subtotal: {SubTotal()}";
         }
 
     }

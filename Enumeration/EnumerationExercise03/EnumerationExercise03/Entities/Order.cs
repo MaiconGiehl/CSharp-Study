@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 using EnumerationExercise03.Entities.Enums;
 
@@ -14,19 +13,19 @@ namespace EnumerationExercise03.Entities
         public Order()
         {
         }
-        public Order(DateTime moment, OrderStatus status, Client client) : this()
+        public Order(DateTime moment, OrderStatus status, Client client)
         {
             Moment = moment;
             Status = status;
             Client = client;
         }
-        
-        public void addItem(OrderItem item)
+
+        public void AddItem(OrderItem item)
         {
             OrderItems.Add(item);
         }
 
-        public void removeItem(OrderItem item)
+        public void RemoveItem(OrderItem item)
         {
             OrderItems.Remove(item);
         }
@@ -48,7 +47,11 @@ namespace EnumerationExercise03.Entities
             order.Append($"\r\nOrder status: {Status}");
             order.Append($"\r\nClient: {Client}");
             order.Append($"\r\nOrder Items: ");
-            order.Append($"\r\nTotal Price: ");
+            foreach (OrderItem item in OrderItems)
+            {
+                order.Append(item);
+            }
+            order.Append($"\r\nTotal Price: {Total()}");
             return order.ToString();
         }
     }

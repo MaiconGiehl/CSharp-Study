@@ -3,7 +3,6 @@ using System.Globalization;
 using EnumerationExercise03.Entities;
 using EnumerationExercise03.Entities.Enums;
 
-
 namespace EnumerationExercise03
 {
     class Program
@@ -26,25 +25,25 @@ namespace EnumerationExercise03
 
             Order order = new Order(moment, status, client);
 
-            //Console.Write("How many products to this order?");
-            //int n = int.Parse(Console.ReadLine());
-            //Console.WriteLine("\r\n-------------");
+            Console.Write("How many products to this order?");
+            int n = int.Parse(Console.ReadLine());
+            Console.WriteLine("\r\n-------------");
 
-            //for (int i = 1; i <= n; i++)
-            //{
-            //    Console.WriteLine($"Insert product #{i} data");
-            //    Console.Write("Name: ");
-            //    string productName = Console.ReadLine();
-            //    Console.Write("Price: ");
-            //    double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            //    Console.Write("Quantity: ");
-            //    int quantity = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= n; i++)
+            {
+                Console.WriteLine($"Insert product #{i} data");
+                Console.Write("Name: ");
+                string productName = Console.ReadLine();
+                Console.Write("Price: ");
+                double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Console.Write("Quantity: ");
+                int quantity = int.Parse(Console.ReadLine());
 
-            //    Product product = new Product(productName, price);
-            //    OrderItem orderItem = new OrderItem(product, quantity);
-
-            //    Console.WriteLine("-------------");
-            //}
+                Product product = new Product(productName, price);
+                OrderItem orderItem = new OrderItem(product, quantity);
+                order.AddItem(orderItem);
+            }
+            
 
             Console.WriteLine(order);
         }
