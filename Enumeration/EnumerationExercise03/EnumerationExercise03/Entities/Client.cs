@@ -18,11 +18,9 @@ namespace EnumerationExercise03.Entities
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
-            sb.Append(Name);
-            sb.Append(BirthDate);
-            sb.Append(Email);
-            return sb.ToString();
+            return $"Client: {Name} " +
+                $"({BirthDate.ToString("dd/MM/yyyy")})" +
+                $" - {Email}";
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "63wzYkROdHrX9MAsMx891pr5vvkraPgi7s31myEFOyoT12ygByCrAHzZ9pi0ZLx8rG68ybt6wD8Mxnwzrdkqpw==",
+  "dgSpecHash": "P5Q9kp6DRJmBMvrhxzWeeKmHmu3Y2zVtGBIZdG5UZD0qQkrktr2eRcBPRIlzSnCipRdP+SL/HOMo3xnFyDuUuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\DateTime\\DateTime\\DateTime.csproj",
+  "projectFilePath": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\TimeManipulation\\DateTime\\DateTime\\DateTime.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

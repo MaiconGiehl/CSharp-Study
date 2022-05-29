@@ -11,10 +11,8 @@ namespace EnumerationExercise03.Entities
         public Client Client { get; set; }
         public List<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 
-        public Order(DateTime moment, OrderStatus status, Client client)
+        public Order(Client client)
         {
-            Moment = moment;
-            Status = status;
             Client = client;
         }
         
@@ -40,11 +38,11 @@ namespace EnumerationExercise03.Entities
         public override string ToString()
         {
             return "ORDER SUMMARY: " +
-            $"Order moment: " +
-            $"Order status: " +
-            $"Client: {Client} ({}) - {}" +
-            $"Order Items: {}" +
-            $"Total Price: ";
+            $"\r\nOrder moment: " +
+            $"\r\nOrder status: " +
+            $"\r\nClient: {Client}" +
+            $"\r\nOrder Items: " +
+            $"\r\nTotal Price: ";
         }
     }
 }

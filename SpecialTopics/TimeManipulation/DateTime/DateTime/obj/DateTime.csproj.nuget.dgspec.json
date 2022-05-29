@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\DateTime\\DateTime\\DateTime.csproj": {}
+    "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\TimeManipulation\\DateTime\\DateTime\\DateTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\DateTime\\DateTime\\DateTime.csproj": {
+    "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\TimeManipulation\\DateTime\\DateTime\\DateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\DateTime\\DateTime\\DateTime.csproj",
+        "projectUniqueName": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\TimeManipulation\\DateTime\\DateTime\\DateTime.csproj",
         "projectName": "DateTime",
-        "projectPath": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\DateTime\\DateTime\\DateTime.csproj",
+        "projectPath": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\TimeManipulation\\DateTime\\DateTime\\DateTime.csproj",
         "packagesPath": "C:\\Users\\Maicon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\DateTime\\DateTime\\obj\\",
+        "outputPath": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\TimeManipulation\\DateTime\\DateTime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

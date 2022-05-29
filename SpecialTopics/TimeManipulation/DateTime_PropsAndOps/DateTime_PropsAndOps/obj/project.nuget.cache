@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a9brigNFesH4sc4Xlu6jBhK6K3mHf3ohh8Zj5+QFG9Po297zA3ew9sEk/F4NXYXuIRtuejQ1LzixuJx/f0o5sw==",
+  "dgSpecHash": "zLFhcUaIWZHW123bt6t4Q/zc80oAPJF2sc8wQnxaLmFjmbTLW34xIl4DmMYxcmFir3vknw2gitwQqNUyMw+qpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\DateTime_PropsAndOps\\DateTime_PropsAndOps\\DateTime_PropsAndOps.csproj",
+  "projectFilePath": "C:\\Users\\Maicon\\Desktop\\Udemy\\CursoCSharp\\SpecialTopics\\TimeManipulation\\DateTime_PropsAndOps\\DateTime_PropsAndOps\\DateTime_PropsAndOps.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
