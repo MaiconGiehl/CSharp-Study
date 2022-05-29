@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\bin\Debug\net6.0\EnumerationExercise02.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\bin\Debug\net6.0\EnumerationExercise02.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\bin\Debug\net6.0\EnumerationExercise02.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\bin\Debug\net6.0\EnumerationExercise02.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\bin\Debug\net6.0\EnumerationExercise02.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\EnumerationExercise02.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\EnumerationExercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\EnumerationExercise02.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\EnumerationExercise02.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\EnumerationExercise02.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\EnumerationExercise02.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\refint\EnumerationExercise02.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\EnumerationExercise02.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\EnumerationExercise02.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationExercise02\EnumerationExercise02\obj\Debug\net6.0\ref\EnumerationExercise02.dll
