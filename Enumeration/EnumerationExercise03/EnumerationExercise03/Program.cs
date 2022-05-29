@@ -19,14 +19,14 @@ namespace EnumerationExercise03
             DateTime birthDate = DateTime.Parse(Console.ReadLine());
             Client client = new Client(clientName, email, birthDate);
 
-            Order order = new Order(client);
+            Console.WriteLine("\r\nEnter order's data");
+            DateTime moment = DateTime.Now;
+            Console.Write("Order status: ");
+            OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
 
+            Order order = new Order(moment, status, client);
 
-            //Console.WriteLine("Enter order's data");
-            //Console.Write("Status: ");
-            //OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
             //Console.Write("How many products to this order?");
-
             //int n = int.Parse(Console.ReadLine());
             //Console.WriteLine("\r\n-------------");
 
@@ -45,6 +45,7 @@ namespace EnumerationExercise03
 
             //    Console.WriteLine("-------------");
             //}
+
             Console.WriteLine(order);
         }
     }

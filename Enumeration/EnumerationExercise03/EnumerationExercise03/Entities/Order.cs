@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 using EnumerationExercise03.Entities.Enums;
 
 namespace EnumerationExercise03.Entities
@@ -10,9 +11,13 @@ namespace EnumerationExercise03.Entities
         public OrderStatus Status { get; set; }
         public Client Client { get; set; }
         public List<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
-
-        public Order(Client client)
+        public Order()
         {
+        }
+        public Order(DateTime moment, OrderStatus status, Client client) : this()
+        {
+            Moment = moment;
+            Status = status;
             Client = client;
         }
         
@@ -21,28 +26,30 @@ namespace EnumerationExercise03.Entities
             OrderItems.Add(item);
         }
 
-        public void removeItem (OrderItem item)
+        public void removeItem(OrderItem item)
         {
             OrderItems.Remove(item);
         }
         public double Total()
         {
             double Sum = 0.0;
-            foreach(OrderItem item in OrderItems)
+            foreach (OrderItem item in OrderItems)
             {
                 return Sum += item.SubTotal();
             }
             return Sum;
-            
+
         }
         public override string ToString()
         {
-            return "ORDER SUMMARY: " +
-            $"\r\nOrder moment: " +
-            $"\r\nOrder status: " +
-            $"\r\nClient: {Client}" +
-            $"\r\nOrder Items: " +
-            $"\r\nTotal Price: ";
+            StringBuilder order = new StringBuilder();
+            order.Append("ORDER SUMMARY: ");
+            order.Append($"\r\nOrder moment: {Moment})");
+            order.Append($"\r\nOrder status: {Status}");
+            order.Append($"\r\nClient: {Client}");
+            order.Append($"\r\nOrder Items: ");
+            order.Append($"\r\nTotal Price: ");
+            return order.ToString();
         }
     }
 }
