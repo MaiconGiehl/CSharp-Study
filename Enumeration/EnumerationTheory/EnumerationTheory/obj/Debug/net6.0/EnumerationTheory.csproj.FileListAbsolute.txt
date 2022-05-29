@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\bin\Debug\net6.0\EnumerationTheory.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\bin\Debug\net6.0\EnumerationTheory.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\bin\Debug\net6.0\EnumerationTheory.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\bin\Debug\net6.0\EnumerationTheory.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\bin\Debug\net6.0\EnumerationTheory.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\EnumerationTheory.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\EnumerationTheory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\EnumerationTheory.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\EnumerationTheory.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\EnumerationTheory.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\EnumerationTheory.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\refint\EnumerationTheory.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\EnumerationTheory.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\EnumerationTheory.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Enumeration\EnumerationTheory\EnumerationTheory\obj\Debug\net6.0\ref\EnumerationTheory.dll
