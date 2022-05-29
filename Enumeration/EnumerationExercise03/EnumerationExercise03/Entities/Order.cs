@@ -8,8 +8,16 @@ namespace EnumerationExercise03.Entities
     {
         public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
+        public Client Client { get; set; }
         public List<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 
+        public Order(DateTime moment, OrderStatus status, Client client)
+        {
+            Moment = moment;
+            Status = status;
+            Client = client;
+        }
+        
         public void addItem(OrderItem item)
         {
             OrderItems.Add(item);
@@ -19,7 +27,6 @@ namespace EnumerationExercise03.Entities
         {
             OrderItems.Remove(item);
         }
-
         public double Total()
         {
             double Sum = 0.0;
@@ -30,14 +37,14 @@ namespace EnumerationExercise03.Entities
             return Sum;
             
         }
-
         public override string ToString()
         {
-            return $"Order moment: ";
-            //    $"Order status: " +
-            //    $"Client: {} ({}) - {}" +
-            //    $"Order Items: {}" +
-            //    $"Total Price: ";
+            return "ORDER SUMMARY: " +
+            $"Order moment: " +
+            $"Order status: " +
+            $"Client: {Client} ({}) - {}" +
+            $"Order Items: {}" +
+            $"Total Price: ";
         }
     }
 }

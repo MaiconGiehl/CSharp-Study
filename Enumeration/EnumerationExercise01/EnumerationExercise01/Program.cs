@@ -45,7 +45,7 @@ namespace EnumerationExercise01
             }
 
             Console.WriteLine("");
-            Console.Write("Enter month and year to calculate income (MM/YYYY):  ");
+            Console.Write("Enter month and year to calculate income (MM/YYYY): ");
             string monthAndYear = Console.ReadLine();
             int month = int.Parse(monthAndYear.Substring(0, 2));
             int year = int.Parse(monthAndYear.Substring(3));
