@@ -18,20 +18,20 @@ namespace EnumerationExercise03
             DateTime birthDate = DateTime.Parse(Console.ReadLine());
             Client client = new Client(clientName, email, birthDate);
 
-            Console.WriteLine("\r\nEnter order's data");
+            Console.WriteLine("\r\nEnter order data:");
             DateTime moment = DateTime.Now;
-            Console.Write("Order status: ");
+            Console.Write("Status: ");
             OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
 
             Order order = new Order(moment, status, client);
 
-            Console.Write("How many products to this order?");
+            Console.Write("How many items to this order? ");
             int n = int.Parse(Console.ReadLine());
-            Console.WriteLine("\r\n-------------");
+            Console.WriteLine("\r\n-----------------------------");
 
             for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine($"Insert product #{i} data");
+                Console.WriteLine($"Enter item #{i} data");
                 Console.Write("Name: ");
                 string productName = Console.ReadLine();
                 Console.Write("Price: ");
@@ -42,9 +42,10 @@ namespace EnumerationExercise03
                 Product product = new Product(productName, price);
                 OrderItem orderItem = new OrderItem(product, quantity);
                 order.AddItem(orderItem);
+                Console.WriteLine("-----------------------------");
             }
-            
 
+            Console.WriteLine("");
             Console.WriteLine(order);
         }
     }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Text;
 using EnumerationExercise03.Entities.Enums;
 
@@ -34,7 +35,7 @@ namespace EnumerationExercise03.Entities
             double Sum = 0.0;
             foreach (OrderItem item in OrderItems)
             {
-                return Sum += item.SubTotal();
+                Sum += item.SubTotal();
             }
             return Sum;
 
@@ -42,16 +43,18 @@ namespace EnumerationExercise03.Entities
         public override string ToString()
         {
             StringBuilder order = new StringBuilder();
-            order.Append("ORDER SUMMARY: ");
+            order.Append("=================================");
+            order.Append("\r\nORDER SUMMARY: ");
             order.Append($"\r\nOrder moment: {Moment})");
             order.Append($"\r\nOrder status: {Status}");
             order.Append($"\r\nClient: {Client}");
-            order.Append($"\r\nOrder Items: ");
+            order.Append($"\r\nOrder Items: \r\n");
             foreach (OrderItem item in OrderItems)
             {
-                order.Append(item);
+                order.AppendLine($"{item}");
             }
-            order.Append($"\r\nTotal Price: {Total()}");
+            order.Append($"Total Price: ${Total().ToString("F2", CultureInfo.InvariantCulture)}");
+            order.Append("\r\n=================================");
             return order.ToString();
         }
     }

@@ -10,6 +10,7 @@ namespace EnumerationExercise03.Entities
         public double Price { get; set; }
 
         public OrderItem (Product product, int quantity)        {
+            Product = product;
             Quantity = quantity;
             Price = product.Price;
         }
@@ -22,8 +23,8 @@ namespace EnumerationExercise03.Entities
         {
             return $"{Product.Name}, " +
                 $"${Price.ToString("F2", CultureInfo.InvariantCulture)}, " +
-                $"${Quantity}, " +
-                $"Subtotal: {SubTotal()}";
+                $"Quantity: {Quantity}, " +
+                $"Subtotal: ${SubTotal().ToString("F2", CultureInfo.InvariantCulture)}";
         }
 
     }
