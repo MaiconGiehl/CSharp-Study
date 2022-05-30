@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\bin\Debug\net6.0\InherAndPoly-SolvedExercise.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\bin\Debug\net6.0\InherAndPoly-SolvedExercise.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\bin\Debug\net6.0\InherAndPoly-SolvedExercise.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\bin\Debug\net6.0\InherAndPoly-SolvedExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\bin\Debug\net6.0\InherAndPoly-SolvedExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\InherAndPoly-SolvedExercise.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\InherAndPoly-SolvedExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\InherAndPoly-SolvedExercise.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\InherAndPoly-SolvedExercise.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\InherAndPoly-SolvedExercise.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\InherAndPoly-SolvedExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\refint\InherAndPoly-SolvedExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\InherAndPoly-SolvedExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\InherAndPoly-SolvedExercise.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\InherAndPoly-SolvedExercise\InherAndPoly-SolvedExercise\obj\Debug\net6.0\ref\InherAndPoly-SolvedExercise.dll
