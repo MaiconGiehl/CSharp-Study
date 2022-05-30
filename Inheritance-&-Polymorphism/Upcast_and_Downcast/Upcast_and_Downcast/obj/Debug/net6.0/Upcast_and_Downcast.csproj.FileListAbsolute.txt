@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\bin\Debug\net6.0\Upcast_and_Downcast.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\bin\Debug\net6.0\Upcast_and_Downcast.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\bin\Debug\net6.0\Upcast_and_Downcast.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\bin\Debug\net6.0\Upcast_and_Downcast.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\bin\Debug\net6.0\Upcast_and_Downcast.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\Upcast_and_Downcast.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\Upcast_and_Downcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\Upcast_and_Downcast.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\Upcast_and_Downcast.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\Upcast_and_Downcast.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\Upcast_and_Downcast.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\refint\Upcast_and_Downcast.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\Upcast_and_Downcast.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\Upcast_and_Downcast.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Upcast_and_Downcast\Upcast_and_Downcast\obj\Debug\net6.0\ref\Upcast_and_Downcast.dll
