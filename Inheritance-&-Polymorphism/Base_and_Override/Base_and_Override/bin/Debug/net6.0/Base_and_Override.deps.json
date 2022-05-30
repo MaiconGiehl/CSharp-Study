@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Base_and_Override/1.0.0": {
+        "runtime": {
+          "Base_and_Override.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Base_and_Override/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

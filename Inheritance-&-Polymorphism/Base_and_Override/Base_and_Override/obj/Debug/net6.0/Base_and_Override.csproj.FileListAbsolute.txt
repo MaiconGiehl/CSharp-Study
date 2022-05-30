@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\bin\Debug\net6.0\Base_and_Override.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\bin\Debug\net6.0\Base_and_Override.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\bin\Debug\net6.0\Base_and_Override.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\bin\Debug\net6.0\Base_and_Override.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\bin\Debug\net6.0\Base_and_Override.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\Base_and_Override.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\Base_and_Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\Base_and_Override.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\Base_and_Override.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\Base_and_Override.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\Base_and_Override.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\refint\Base_and_Override.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\Base_and_Override.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\Base_and_Override.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\Base_and_Override\Base_and_Override\obj\Debug\net6.0\ref\Base_and_Override.dll
