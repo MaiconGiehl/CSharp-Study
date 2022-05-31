@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\bin\Debug\net6.0\AbstractClasses.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\bin\Debug\net6.0\AbstractClasses.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\bin\Debug\net6.0\AbstractClasses.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\bin\Debug\net6.0\AbstractClasses.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\bin\Debug\net6.0\AbstractClasses.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\AbstractClasses.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\refint\AbstractClasses.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\AbstractClasses.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\AbstractClasses.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractClasses\AbstractClasses\obj\Debug\net6.0\ref\AbstractClasses.dll
