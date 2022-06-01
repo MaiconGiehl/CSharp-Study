@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\AbstractExercise.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\AbstractExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\AbstractExercise.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\AbstractExercise.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\AbstractExercise.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\bin\Debug\net6.0\AbstractExercise.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\bin\Debug\net6.0\AbstractExercise.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\bin\Debug\net6.0\AbstractExercise.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\bin\Debug\net6.0\AbstractExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\bin\Debug\net6.0\AbstractExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\AbstractExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\refint\AbstractExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\AbstractExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\AbstractExercise.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Inheritance-&-Polymorphism\AbstractExercise\AbstractExercise\obj\Debug\net6.0\ref\AbstractExercise.dll
