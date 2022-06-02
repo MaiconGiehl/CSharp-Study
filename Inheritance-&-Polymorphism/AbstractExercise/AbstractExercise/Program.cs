@@ -16,7 +16,9 @@ namespace AbstractExercise
 
             for (int i = 1; i <= n; i++)
             {
-                Console.Write("Individual or company (i/c)?");
+                Console.WriteLine("\r\n======================");
+                Console.WriteLine($"Tax payer {i} data: ");
+                Console.Write("Individual or company (i/c)? ");
                 char personType = char.Parse(Console.ReadLine());
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
@@ -37,15 +39,16 @@ namespace AbstractExercise
                 }
             }
 
+            Console.WriteLine("======================\r\n");
+
             double sum = 0.0;
             Console.WriteLine("TAXES PAID: ");
             foreach (TaxPayer taxPayer in list) {
-                Console.WriteLine(taxPayer.TotalTaxes().ToString("F2", CultureInfo.InvariantCulture));
+                Console.WriteLine(taxPayer);
                 sum += taxPayer.TotalTaxes();
             }
 
-            Console.WriteLine("TOTAL TAXES");
-            Console.WriteLine(sum.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("TOTAL TAXES: $" + sum.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }

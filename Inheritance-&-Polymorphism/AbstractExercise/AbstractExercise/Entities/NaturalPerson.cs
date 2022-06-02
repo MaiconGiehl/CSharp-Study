@@ -18,21 +18,21 @@ namespace AbstractExercise.Entities
 
         public override double TotalTaxes()
         {
-            double taxes = 1.0;
+            double taxes = 0.0;
             if (AnualIncome < 20000.00)
             {
-                taxes = AnualIncome * (AnualIncome / 15 * 100);
-                if (HealthExpen < 0)
+                taxes = AnualIncome * 15 / 100;
+                if (HealthExpen > 0)
                 {
-                    taxes -= HealthExpen * (HealthExpen / 50 * 100);
+                    taxes -= (HealthExpen * 50 / 100);
                 }
             }
-            else if (AnualIncome >= 200000.00 )
+            else if (AnualIncome >= 20000.00 )
             {
-                taxes = AnualIncome * (AnualIncome * 25 / 100);
-                if (HealthExpen < 0)
+                taxes =  AnualIncome * 25 / 100;
+                if (HealthExpen > 0)
                 {
-                    taxes -= HealthExpen * (HealthExpen * 50 / 100);
+                    taxes -= (HealthExpen * 50 / 100);
                 }
             }
             return taxes;

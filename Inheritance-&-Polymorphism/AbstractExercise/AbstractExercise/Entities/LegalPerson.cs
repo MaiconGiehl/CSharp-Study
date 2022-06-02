@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Globalization;
 
 namespace AbstractExercise.Entities
 {
@@ -22,7 +19,21 @@ namespace AbstractExercise.Entities
 
         public override double TotalTaxes ()
         {
-            return 3;
+            double taxes = 0.0;
+            if (EmployeesQnt <= 10)
+            {
+                taxes = AnualIncome * 16 / 100;
+            }
+            else if (EmployeesQnt > 10)
+            {
+                taxes = AnualIncome * 14 / 100;
+            }
+            return taxes;
+        }
+
+        public override string ToString()
+        {
+            return $"{Name}: ${TotalTaxes().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
