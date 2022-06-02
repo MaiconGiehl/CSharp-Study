@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\bin\Debug\net6.0\Try-Catch.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\bin\Debug\net6.0\Try-Catch.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\bin\Debug\net6.0\Try-Catch.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\bin\Debug\net6.0\Try-Catch.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\bin\Debug\net6.0\Try-Catch.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\Try-Catch.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\Try-Catch.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\Try-Catch.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\Try-Catch.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\refint\Try-Catch.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\Try-Catch.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\Try-Catch.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\Try-Catch\Try-Catch\obj\Debug\net6.0\ref\Try-Catch.dll
