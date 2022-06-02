@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\bin\Debug\net6.0\GoodCustomException.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\bin\Debug\net6.0\GoodCustomException.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\bin\Debug\net6.0\GoodCustomException.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\bin\Debug\net6.0\GoodCustomException.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\bin\Debug\net6.0\GoodCustomException.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\GoodCustomException.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\GoodCustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\GoodCustomException.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\GoodCustomException.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\GoodCustomException.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\GoodCustomException.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\refint\GoodCustomException.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\GoodCustomException.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\GoodCustomException.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\GoodCustomException\GoodCustomException\obj\Debug\net6.0\ref\GoodCustomException.dll
