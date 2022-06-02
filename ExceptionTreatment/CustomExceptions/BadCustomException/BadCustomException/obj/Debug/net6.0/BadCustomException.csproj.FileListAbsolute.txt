@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\bin\Debug\net6.0\BadCustomException.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\bin\Debug\net6.0\BadCustomException.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\bin\Debug\net6.0\BadCustomException.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\bin\Debug\net6.0\BadCustomException.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\bin\Debug\net6.0\BadCustomException.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\BadCustomException.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\BadCustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\BadCustomException.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\BadCustomException.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\BadCustomException.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\BadCustomException.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\refint\BadCustomException.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\BadCustomException.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\BadCustomException.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\CustomExceptions\BadCustomException\BadCustomException\obj\Debug\net6.0\ref\BadCustomException.dll
