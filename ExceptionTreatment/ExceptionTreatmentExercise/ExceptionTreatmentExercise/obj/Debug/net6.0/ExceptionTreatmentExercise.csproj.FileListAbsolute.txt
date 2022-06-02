@@ -1,0 +1,15 @@
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\bin\Debug\net6.0\ExceptionTreatmentExercise.exe
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\bin\Debug\net6.0\ExceptionTreatmentExercise.deps.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\bin\Debug\net6.0\ExceptionTreatmentExercise.runtimeconfig.json
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\bin\Debug\net6.0\ExceptionTreatmentExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\bin\Debug\net6.0\ExceptionTreatmentExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\ExceptionTreatmentExercise.csproj.AssemblyReference.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\ExceptionTreatmentExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\ExceptionTreatmentExercise.AssemblyInfoInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\ExceptionTreatmentExercise.AssemblyInfo.cs
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\ExceptionTreatmentExercise.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\ExceptionTreatmentExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\refint\ExceptionTreatmentExercise.dll
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\ExceptionTreatmentExercise.pdb
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\ExceptionTreatmentExercise.genruntimeconfig.cache
+C:\Users\Maicon\Desktop\Udemy\CursoCSharp\ExceptionTreatment\ExceptionTreatmentExercise\ExceptionTreatmentExercise\obj\Debug\net6.0\ref\ExceptionTreatmentExercise.dll
