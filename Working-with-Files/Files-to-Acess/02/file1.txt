@@ -1,2 +1,2 @@
-Good Morning!
-Good Afternoon
+working with files
+FileStream and StreamReader
