@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Interface.Entities
+namespace WithoutInterface.Entities
 {
     internal class Vehicle
     {

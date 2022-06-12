@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Globalization;
 
 
-namespace Interface.Entities
+namespace WithoutInterface.Entities
 {
     internal class Invoice
     {
@@ -21,7 +21,9 @@ namespace Interface.Entities
 
         public double TotalPayment
         {
-            get { return BasicPayment * Tax; }
+            
+            get { return BasicPayment + Tax; }
+            
         }
 
         public override string ToString()
