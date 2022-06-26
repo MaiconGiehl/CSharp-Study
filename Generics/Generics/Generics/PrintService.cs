@@ -2,12 +2,12 @@
 
 namespace Generics
 {
-    internal class PrintService
+    internal class PrintService<T>
     {
-        private int[] _values = new int[10];
+        private T[] _values = new T[10];
         private int _count = 0;
 
-        public void AddValue (int value)
+        public void AddValue (T value)
         {
             if (_count == 10)
             {
@@ -18,7 +18,7 @@ namespace Generics
             _count++;
         }
 
-        public int First ()
+        public T First ()
         {
             if (_count == 0)
             {
