@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsRestriction", "GenericsRestriction\GenericsRestriction.csproj", "{774A8BA4-4293-4601-990F-6441E0D8E835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{774A8BA4-4293-4601-990F-6441E0D8E835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774A8BA4-4293-4601-990F-6441E0D8E835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774A8BA4-4293-4601-990F-6441E0D8E835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774A8BA4-4293-4601-990F-6441E0D8E835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C1959D-EDE9-431B-85C6-1A93004E971F}
+	EndGlobalSection
+EndGlobal
