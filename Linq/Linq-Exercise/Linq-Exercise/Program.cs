@@ -35,7 +35,6 @@ namespace Exercise
             {
                 Console.WriteLine(name);
             }
-            // C:\Users\Maicon\Desktop\Udemy\CursoCSharp\Linq\ToAccess\Products.csv
         }
     }
 }
